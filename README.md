@@ -1,1 +1,30 @@
-# ML
+<h1>Simplified Model Environment with Backtesting</h1>
+
+This is a simplified work sample of an older model using a RL environment written in Python. This script in particular is designed to backtest the performance of the model based on historical exchange price data.
+
+<h3>Prerequisites</h3>
+
+<ul>
+<li>Python 3</li>
+<li>NumPy, a Python library that provides a multidimensional array object, various derived objects such as masked arrays and matrices, and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation, and more.</li>
+<li>Pandas, a data analysis library built on top of NumPy that provides high-level data structures and operations for manipulating numerical tables, time series, vectorized methods, machine learning, data cleaning, data analysis, and more.</li>
+</ul>
+
+<p>You can install the required packages using <code>pip</code>:</p>
+
+<pre><code>pip install numpy</code></pre>
+<pre><code>pip install pandas</code></pre>
+
+<h3>Configuration</h3>
+This backtesting script uses price data from a CSV file located at data.csv. This file should be placed in the same directory as the script. You may update the price data using any raw data from price charts.
+
+<h3>Usage</h3>
+<p>To use, simply run the <code>bot.py</code> script:</p>
+
+<pre><code>python bot.py</code></pre>
+
+<p>The bot will then read in the price data from the data.csv file, and use it to backtest the machine learning model. The results of the backtest will be output to the console.</p>
+
+<h3>Disclaimer</h3>
+<p>This bot is intended only for work reference. It should not be used for actual trading purposes without extensive testing and modification. The performance of the machine learning model used by this bot may not be indicative of future results, and should not be relied upon for investment decisions.
+The author is not liable for any losses.</p>
