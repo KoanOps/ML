@@ -10,15 +10,16 @@ This is a work sample of an older model using a RL environment written in Python
 <li>Pandas, a data analysis library built on top of NumPy that provides high-level data structures and operations for manipulating numerical tables, time series, vectorized methods, machine learning, data cleaning, data analysis, and more.</li>
 </ul>
 
+<h3>Configuration</h3>
+This model backtesting script uses price data from a CSV file located at data.csv. This file should be placed in the same directory as the script. You may update the price data using raw data from price charts.
+
+<h3>Usage</h3>
+
 <p>You can install the required packages using <code>pip</code>:</p>
 
 <pre><code>pip install numpy</code></pre>
 <pre><code>pip install pandas</code></pre>
 
-<h3>Configuration</h3>
-This model backtesting script uses price data from a CSV file located at data.csv. This file should be placed in the same directory as the script. You may update the price data using raw data from price charts.
-
-<h3>Usage</h3>
 <p>To use, simply run the <code>bot.py</code> script:</p>
 
 <pre><code>python bot.py</code></pre>
