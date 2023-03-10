@@ -1,6 +1,6 @@
 <h1>Simplified Model Environment with Backtesting</h1>
 
-This is a simplified work sample of an older model using a RL environment written in Python. This script in particular is designed to backtest the performance of the model based on historical exchange price data.
+This is a simplified work sample of an older model using a RL environment written in Python as a work reference to applying Machine Learning to trading. This script in particular is designed to backtest the performance of the model based on historical exchange price data.
 
 <h3>Prerequisites</h3>
 
