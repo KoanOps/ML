@@ -11,7 +11,7 @@ This is a work sample of an older model using a RL environment written in Python
 </ul>
 
 <h3>Configuration</h3>
-This model backtesting script uses price data from a CSV file located at data.csv. This file should be placed in the same directory as the script. You may update the price data using raw data from price charts.
+This model backtesting script uses price data from a CSV file located at <code>data.csv</code>. This file should be placed in the same directory as the script. You may update the price data using raw data from price charts.
 
 <h3>Usage</h3>
 
