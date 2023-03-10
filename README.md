@@ -1,8 +1,8 @@
 <h1>Machine Learning Model Environment with Backtesting</h1>
-<h3>TL;DR</h3>
+<h2>TL;DR</h2>
 This is a work sample of an older model using a RL environment written in Python as a work reference to showcase a simplified Machine Learning model with applications in trading. This script in particular is designed to backtest the performance of the model based on historical exchange price data.
 
-<h3>Prerequisites</h3>
+<h2>Prerequisites</h2>
 
 <ul>
 <li>Python 3</li>
@@ -10,10 +10,10 @@ This is a work sample of an older model using a RL environment written in Python
 <li>Pandas, a data analysis library built on top of NumPy that provides high-level data structures and operations for manipulating numerical tables, time series, vectorized methods, machine learning, data cleaning, data analysis, and more.</li>
 </ul>
 
-<h3>Configuration</h3>
+<h2>Configuration</h2>
 This model backtesting script uses price data from a CSV file located at <code>data.csv</code>. This file should be placed in the same directory as the script. You may update the price data using raw data from price charts.
 
-<h3>Usage</h3>
+<h2>Usage</h2>
 
 <p>You can install the required packages using <code>pip</code>:</p>
 
