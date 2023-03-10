@@ -16,7 +16,7 @@ This is a simplified work sample of an older model using a RL environment writte
 <pre><code>pip install pandas</code></pre>
 
 <h3>Configuration</h3>
-This backtesting script uses price data from a CSV file located at data.csv. This file should be placed in the same directory as the script. You may update the price data using any raw data from price charts.
+This backtesting script uses price data from a CSV file located at data.csv. This file should be placed in the same directory as the script. You may update the price data using raw data from price charts.
 
 <h3>Usage</h3>
 <p>To use, simply run the <code>bot.py</code> script:</p>
