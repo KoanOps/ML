@@ -23,7 +23,7 @@ This backtesting script uses price data from a CSV file located at data.csv. Thi
 
 <pre><code>python bot.py</code></pre>
 
-<p>The bot will then read in the price data from the data.csv file, and use it to backtest the machine learning model. The results of the backtest will be output to the console.</p>
+<p>The script will then read in the price data from the data.csv file, and use it to backtest the machine learning model. The results of the backtest will be output to the console.</p>
 
 <h2>Disclaimer</h2>
 <p>This script is intended only for work reference. It should not be used for actual trading purposes without extensive testing and modification. The performance of the machine learning model used by this bot may not be indicative of future results, and should not be relied upon for investment decisions.
